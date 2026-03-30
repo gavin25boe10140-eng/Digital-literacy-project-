@@ -29,6 +29,6 @@ This project was completed as part of the CSE0001 Digital Literacy course. As a 
 
 * GitHub: *https://github.com/gavin25boe10140-eng/gavin25boe10140-eng*
 * LinkedIn: *www.linkedin.com/in/gavin-a-vincent-johngavin-377653376*
-*Kaggle:*https://www.kaggle.com/gavin25boe10140*
-
+* Kaggle:*https://www.kaggle.com/gavin25boe10140*
+* google form :*https://docs.google.com/forms/d/1dhm8rbmjGn3ga5SVtnd0WUW8h-jL6tkLecjKPtbHkyM/edit*
 ---
